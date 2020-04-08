@@ -19,9 +19,8 @@ A fast and reliable method to predict these interactions will allow medicinal ch
 Ultimately, such tools will enable researchers to make progress in a range of important problems, like designing molecules to carry out specific cellular tasks, or designing better drug molecules to fight disease.
 
 ## The solution
-The solution I worked for in the last couple of months wasn't anything expectacular or novel, hence my place in the lederboard. This was my first competition, from which i learned a great deal. 
 
-My best individual model was a LGBM model with hyperparameters discovered with bayesian optimization and a set of all the best features I found in the public kernels, and some of my own. That gave me a score of -1.572. The final submision was a blend of my model and the best public models of the competitions, scoring a -1.869 in the private leaderboard and -1.875 in the public leaderboard.  
+My best individual model was a LGBM model with hyperparameters tunned with bayesian optimization and a set of all the best features I found in the public kernels, and some of my own. That gave me a score of -1.572. The final submision was a blend of my model and the best public models of the competitions, scoring a -1.869 in the private leaderboard and -1.875 in the public leaderboard.  
 
 ## How to use this repository
 
